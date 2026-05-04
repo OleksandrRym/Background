@@ -17,16 +17,15 @@
 ## 🎓 Certificates
 
 ### Core Engineering & Development
-| | | |
-|:---:|:---:|:---:|
-| <img src="certeficates/google.png" width="250"><br>Google Certification | <img src="certeficates/SpringSecurity.png" width="250"><br>Spring Security | <img src="certeficates/micrs.png" width="250"><br>Microservices |
-| <img src="certeficates/api_sec.png" width="250"><br>API Security | <img src="certeficates/openapi.png" width="250"><br>OpenAPI / Swagger | <img src="certeficates/owasp.png" width="250"><br>OWASP Security |
+| | |                                                                         |
+|:---:|:---:|:-----------------------------------------------------------------------:|
+| <img src="certeficates/google.png" width="250"><br>Google Certification | <img src="certeficates/SpringSecurity.png" width="250"><br>Spring Security |     <img src="certeficates/micrs.png" width="250"><br>Microservices     |
+| <img src="certeficates/api_sec.png" width="250"><br>API Security | <img src="certeficates/openapi.png" width="250"><br>OpenAPI / Swagger |    <img src="certeficates/owasp.png" width="250"><br>OWASP Security     |
 | <img src="certeficates/DBE.png" width="250"><br>Database Engineering | <img src="certeficates/JBE.png" width="250"><br>Java Backend | <img src="certeficates/intTest.png" width="250"><br>Integration Testing |
-| <img src="certeficates/ST.png" width="250"><br>Software Testing |<img src="certeficates/AI_agents.png" width="250"><br>AI_agents
+| <img src="certeficates/ST.png" width="250"><br>Software Testing |<img src="certeficates/AI_agents.png" width="250"><br>AI_agents |   <img src="certeficates/claude-101.png" width="250"><br> Claude 101    |
 
 ### Methodology & Process
 | | |
 |:---:|:---:|
 | <img src="certeficates/scrum.png" width="250"><br>Scrum Certification | <img src="certeficates/sdlc.png" width="250"><br>SDLC Methodology |
-AI_agents.png
 ---
